@@ -1,5 +1,7 @@
 {
   "name": "finalyearprojectforvasavistudents",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
